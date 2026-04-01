@@ -14,7 +14,7 @@ Tic Tac Toe Game -:
 1. Clone the repository
 2. Open index.html in your browser
 
-![Screenshot](tic tac toe.png)
+![Screenshot](tic%20tac%20toe.png)
 
 *Author 
 Made with ❤️ by Preet
